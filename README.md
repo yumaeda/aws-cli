@@ -1,14 +1,17 @@
-# aws-cli
-Repository for using AWS CLI
+# AWS CLI
 
-## Install AWS CLI
+## Install
 - https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 
-## Configure AWS CLI
+&nbsp;
+
+## Configure
+- Open terminal and execute below command.
 
 ```sh
 aws configure
 ```
+
 - AWS Access Key ID
   - Input your `AWS Access Key ID` and press [Enter]
 - AWS Secret Access Key
